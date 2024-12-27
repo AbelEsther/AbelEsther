@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋Hi there, I’m Esther Abel 
 
-<!--
-**AbelEsther/AbelEsther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+I’m an AI Acceleration Analyst with a strong foundation in Information Technology and a focus on AI in Business. Passionate about Educational Technology, I am dedicated to leveraging AI-driven solutions to solve real-world problems and make education more inclusive, accessible, and impactful.
 
-Here are some ideas to get you started:
+### 🔧 **Skills and Expertise**  
+- **Programming:** Python, SQL  
+- **AI & Data Analytics:** Machine Learning, Data Visualization, Google Data Analytics  
+- **Tools & Frameworks:** Excel, Google BigQuery, Power BI, Tableau  
+- **Project Management:** Slack, Agile, JIRA, Canva, Teams  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 **What I Work On**  
+- Developing adaptive learning systems and AI-powered interfaces.
+- Data Analytics and ML Projects
+- Building tools that personalize education and enhance accessibility.  
+- Leading community-focused tech initiatives.
+
+### 🌍 **Mission**  
+I’m committed to creating scalable EdTech solutions and empowering underserved communities through technology.  
+
+### 📫 **Let’s Connect!**  
+[LinkedIn](https://www.linkedin.com/in/abelesther/) | [Medium](https://medium.com/@abelesther) | [Website](https://abelesther17.wixsite.com/esther-abel)  
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbelEsther&show_icons=true&theme=transparent)
