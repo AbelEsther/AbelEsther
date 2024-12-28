@@ -1,4 +1,4 @@
-![image_alt](https://github.com/AbelEsther/AbelEsther/blob/0766ba1b7b1d33a3402e55fc1c9e6cef438c0015/Esther_Abel.png)
+![image_alt](https://github.com/AbelEsther/AbelEsther/blob/4ba27db552b9456bd3f6faf421dfff91acd9b28a/Esther_Abel.png)
 ## 👋Hi there, I’m Esther Abel 
 
 ---
